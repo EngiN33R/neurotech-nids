@@ -29,6 +29,7 @@ states = {
     'FIN': 3,
     'RST': 4,
     'INT': 5,
+    'RSP': 6,
     'URP': 10,
     'URH': 11,
     'URN': 12,
